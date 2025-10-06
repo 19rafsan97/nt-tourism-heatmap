@@ -1,0 +1,16 @@
+pandas
+numpy
+requests
+python-dotenv
+matplotlib
+nbformat
+xlsxwriter
+scikit-learn
+sentence-transformers
+bertopic
+hdbscan
+umap-learn
+nltk
+torch
+numba
+llvmlite
