@@ -2,4 +2,4 @@
 *.csv
 *.db
 envNTT
-.json
+*.json
