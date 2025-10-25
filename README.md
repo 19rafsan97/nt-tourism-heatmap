@@ -22,7 +22,7 @@ NT Tourism Heatmap turns real-world Google reviews into actionable insights for 
 │   NT_Tourism_Mini_Overview.html
 │   README.md
 │   requirements.txt
-│
+│   Data analytics
 └───data
     ├───processed
     │       nt_reviews_cleaned.csv
